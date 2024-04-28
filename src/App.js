@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./Components/Home";
 import Quality from "./Components/Quality";
-import Header from "./Components/Header";
+
 import ProductCard from "./Components/ProductCard";
 function App() {
   return (
