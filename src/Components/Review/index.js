@@ -40,7 +40,7 @@ const Review = () => {
   };
 
   return (
-    <div className="w-full h-[70vh]   bg-gray-200">
+    <div className="w-full h-[70vh] pb-[2%]   bg-gray-200">
       <Slider {...settings}>
         <div className="p-2  w-full">
           <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[2%]  ">

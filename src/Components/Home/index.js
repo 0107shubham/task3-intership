@@ -22,7 +22,7 @@ const Home = () => {
             Laborum est Lorem aliqua aute Lorem non est ad sunt fugiat culpa sit
             consequat. Laborum est Lorem aliqua aute Lorem non .
           </p>
-          <button className="border-2 w-[70%] bg-orange-500 my-[8px] sm:my-4 md:my-6 lg:my-8 rounded-full py-[2px] px-4 sm:py-2 bg-transparent text-black  text-[8px] sm:text-xs md:text-sm lg:text-xl  cursor-pointer">
+          <button className="border-2 w-[70%] bg-yellow-700 my-[8px] sm:my-4 md:my-6 lg:my-8 rounded-full py-[2px] px-4 sm:py-2 bg-transparent text-black  text-[8px] sm:text-xs md:text-sm lg:text-xl  cursor-pointer">
             Order Now
           </button>
         </div>

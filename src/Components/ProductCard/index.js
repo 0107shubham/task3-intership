@@ -20,7 +20,7 @@ const ProductCard = () => {
 
   return (
     <div className="w-full flex flex-wrap justify-around aspect-auto bg-gray-200  pl-[2%]  ">
-      <div className="w-[23%] flex flex-col mx-[2%]   aspect-square bg-white mt-[6%] shadow-xl rounded-xl md:rounded-2xl">
+      <div className="w-[23%] flex flex-col mx-[2px] sm:mx-[2%]   aspect-square bg-white mt-[6%] shadow-xl rounded-xl md:rounded-2xl">
         <div className="relative  w-full bottom-[20%]">
           <img
             src="https://res.cloudinary.com/drvjsegeb/image/upload/v1714298287/transparent-blueberry-juice-blueberry-syrup-glass-bottle-blueb-blueberry-syrup-in-glass-bottle-with-1710856687086-Photoroom.png-Photoroom_j0aeef.png"
