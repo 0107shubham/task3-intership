@@ -19,7 +19,7 @@ const ProductCard = () => {
   };
 
   return (
-    <div className="w-full aspect-video bg-green-100  pl-1  pt-[2%]">
+    <div className="w-full aspect-video bg-green-100  pl-[2%]  pt-[2%]">
       <div className="w-[30%] relative flex flex-col justify-end aspect-[8/12] bg-white mt-16 shadow-xl rounded-lg">
         <div className="w-full absolute bottom-[10%] h-[110%] ">
           <img
@@ -63,7 +63,7 @@ const ProductCard = () => {
                 +
               </button>
             </div>
-            <button className="bg-[#F4A124] w-[45%] rounded-full text-white text-[6px] lg:text-2xl px-[6px] py-[2px]  sm:px-2   mt-1  md:px-4 md:py-2 md:mt-2">
+            <button className="bg-[#F4A124] w-[45%] rounded-full text-white text-[6px] sm: md: lg:text-xl xg:text-2xl px-[6px] py-[2px]  sm:px-2   mt-1  md:px-4 md:py-2 md:mt-2">
               Add to Cart
             </button>
           </div>
