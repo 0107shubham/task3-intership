@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  font-size: 16px; /* Base font size */
+}
+
+body {
+  font-size: 1rem; /* Equivalent to 16px (base font size) */
+}
