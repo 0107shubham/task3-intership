@@ -9,7 +9,7 @@ const Header = () => {
           Juice
         </p>
       </div>
-      <div className="flex text-[6px] sm:text-xs md:text-sm lg:text-xl">
+      <div className="flex text-[8px] sm:text-xs md:text-sm lg:text-xl">
         <p className="text-black mx-1 sm:mx-2 md:mx-4">Advantages</p>
         <p className="text-black  mx-1 sm:mx-2 md:mx-4">Tastes</p>
         <p className="text-black mx-1 sm:mx-2 md:mx-4">Delivery</p>

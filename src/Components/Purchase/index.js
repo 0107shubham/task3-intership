@@ -8,7 +8,7 @@ const circleStyleMiddle = {
 };
 const Purchase = () => {
   return (
-    <div className="flex bg-gray-200 aspect-[16/12] flex-col justify-start items-center w-full">
+    <div className="flex bg-gray-200 pt-2 aspect-[16/12] flex-col justify-start items-center w-full">
       <div className="flex justify-around  items-center w-full aspect-[16/4]">
         <div className=" flex flex-col justify-center items-center">
           <div

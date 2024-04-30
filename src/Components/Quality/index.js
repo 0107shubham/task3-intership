@@ -28,7 +28,7 @@ const Quality = () => {
         {/* double box const */}
         <div className="flex justify-between w-[80%] h-[18%]  my-5 ">
           <div className="bg-white w-[45%] flex  flex-row justify-around items-center aspect-video  rounded-md p-1  ">
-            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]   p-2">
+            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]   p-1 sm:p-2">
               <FaAppleAlt className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-6xl" />
             </div>
             <div className="text-base font-semibold leading-none sm:text-2xl md:text-3xl lg:text-5xl">
@@ -37,7 +37,7 @@ const Quality = () => {
             </div>
           </div>
           <div className="bg-white w-[45%] flex  flex-row justify-around items-center   aspect-video  rounded-md ">
-            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]   p-2">
+            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]  p-1 sm:p-2">
               <FaAppleAlt className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-6xl" />
             </div>
             <div className="text-base font-semibold leading-none sm:text-2xl md:text-3xl lg:text-5xl">
@@ -50,7 +50,7 @@ const Quality = () => {
         {/* double box const */}
         <div className="flex  justify-between  w-[80%]  h-[18%] my-5">
           <div className="bg-white w-[45%] flex  flex-row justify-around items-center  mr-5 aspect-video  rounded-md p-1  ">
-            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]   p-2">
+            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]    p-1 sm:p-2">
               <FaAppleAlt className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-6xl" />
             </div>
             <div className="text-base font-semibold leading-none sm:text-2xl md:text-3xl lg:text-5xl">
@@ -59,7 +59,7 @@ const Quality = () => {
             </div>
           </div>
           <div className="bg-white w-[45%] flex  flex-row justify-around items-center aspect-video  rounded-md p-1  ">
-            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]   p-2">
+            <div className="bg-[rgb(179,206,80)] flex justify-center rounded-lg items-center aspect-square  h-[80%]    p-1 sm:p-2">
               <FaAppleAlt className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-6xl" />
             </div>
             <div className="text-base font-semibold leading-none sm:text-2xl md:text-3xl lg:text-5xl">
