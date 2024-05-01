@@ -48,7 +48,7 @@ const Review = () => {
               <div className=" h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+            <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -62,7 +62,7 @@ const Review = () => {
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className=" mt-[1vw] text-[1.8vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[2vw]  font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -76,7 +76,7 @@ const Review = () => {
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+            <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -90,7 +90,7 @@ const Review = () => {
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+              <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -104,7 +104,7 @@ const Review = () => {
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+            <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -118,7 +118,7 @@ const Review = () => {
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+              <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -133,7 +133,7 @@ const Review = () => {
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+            <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -147,7 +147,7 @@ const Review = () => {
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[2vw]  font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -162,7 +162,7 @@ const Review = () => {
               <div className="   h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+            <p className=" mt-[1vw]   text-[2vw]  font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -176,7 +176,7 @@ const Review = () => {
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[2vw]  font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -191,7 +191,7 @@ const Review = () => {
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+            <p className=" mt-[1vw]   text-[2vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -205,7 +205,7 @@ const Review = () => {
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[2vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
