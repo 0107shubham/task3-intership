@@ -214,6 +214,26 @@ const Review = () => {
           </div>
         </div>
       </Slider>
+      <style>
+        {`
+          .slick-dots {
+            bottom:-4vw ;
+          }
+          .slick-dots li {
+            display: inline-block;
+            margin: 0 4vw;
+          }
+          .slick-dots li button {
+            width: 2vw;
+            height: 2vw;
+            border-radius: 50%;
+            background-color: #000000; /* Orange color for inactive dots */
+          }
+          .slick-dots li.slick-active button {
+            background-color: #FF6600; /* Black color for active dot */
+          }
+        `}
+      </style>
     </div>
   );
 };
