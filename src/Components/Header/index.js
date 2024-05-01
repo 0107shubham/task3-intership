@@ -5,11 +5,9 @@ const Header = () => {
   return (
     <div className="flex justify-around absolute w-full">
       <div>
-        <p className="text-green-800  text-[12px] sm:text-base md:text-2xl lg:text-3xl">
-          Juice
-        </p>
+        <p className="text-green-800  text-[2.5vw]">Juice</p>
       </div>
-      <div className="flex text-[8px] sm:text-xs md:text-sm lg:text-xl">
+      <div className="flex text-[1.6vw]">
         <p className="text-black mx-1 sm:mx-2 md:mx-4">Advantages</p>
         <p className="text-black  mx-1 sm:mx-2 md:mx-4">Tastes</p>
         <p className="text-black mx-1 sm:mx-2 md:mx-4">Delivery</p>

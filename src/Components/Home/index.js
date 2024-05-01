@@ -14,15 +14,15 @@ const Home = () => {
       <Header className=" w-full" />
       <div className="w-[45%] flex flex-col justify-center items-center  h-[100%] ">
         <div className="w-[75%]">
-          <div className="text-[#ED8D17] my-2 sm:my-4 md:my-6 lg:my-8 text-[12px]  sm:text-xl md:text-2xl lg:text-4xl font-bold">
+          <div className="text-[#ED8D17]  text-[2.5vw] font-bold">
             <p>For Health Concious</p>
             <p>People On-The-Go</p>
           </div>
-          <p className="w-[80%] my-2 sm:my-4 md:my-6 lg:my-8 text-[6px] sm:text-xs md:text-sm lg:text-xl ">
+          <p className="w-[80%] text-[1.3vw]">
             Laborum est Lorem aliqua aute Lorem non est ad sunt fugiat culpa sit
             consequat. Laborum est Lorem aliqua aute Lorem non .
           </p>
-          <button className="border-2 w-[70%] bg-yellow-700 my-[8px] sm:my-4 md:my-6 lg:my-8 rounded-full py-[2px] px-4 sm:py-2 bg-transparent text-black  text-[8px] sm:text-xs md:text-sm lg:text-xl  cursor-pointer">
+          <button className="border-2 w-[70%] bg-[#ED8D17] mt-[1.5vw] rounded-full p-[1vw]  text-black  text-[1.5vw]  cursor-pointer">
             Order Now
           </button>
         </div>
