@@ -43,12 +43,12 @@ const Review = () => {
     <div className="w-full aspect-[16/11] sm:aspect-video  lg:aspect-[16/7]  bg-gray-200">
       <Slider {...settings}>
         <div className="p-2  w-full">
-          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw] ">
+          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw] ">
             <div className="flex  justify-around items-center mt-[2%]">
               <div className=" h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -56,13 +56,13 @@ const Review = () => {
           </div>
         </div>
         <div className=" p-2 w-full">
-          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw] ">
+          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw] ">
             <div>
               <div className="flex  justify-around items-center mt-[2%]">
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+              <p className=" mt-[1vw] text-[1.8vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -71,12 +71,12 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2  w-full">
-          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw]   ">
+          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw]   ">
             <div className="flex  justify-around items-center mt-[2%]">
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -84,13 +84,13 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2 w-full">
-          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full aspect-[1/1.2]  p-[1vw] ">
+          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2]  p-[1vw] ">
             <div>
               <div className="flex  justify-around items-center mt-[2%]">
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -99,12 +99,12 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2  w-full">
-          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw]   ">
+          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw]   ">
             <div className="flex  justify-around items-center mt-[2%]">
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -112,13 +112,13 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2 w-full">
-          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full aspect-[1/1.2]  p-[1vw] ">
+          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2]  p-[1vw] ">
             <div>
               <div className="flex  justify-around items-center mt-[2%]">
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -128,12 +128,12 @@ const Review = () => {
         </div>
 
         <div className="p-2  w-full">
-          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw]   ">
+          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw]   ">
             <div className="flex  justify-around items-center mt-[2%]">
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -141,13 +141,13 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2 w-full">
-          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full aspect-[1/1.2]  p-[1vw] ">
+          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2]  p-[1vw] ">
             <div>
               <div className="flex  justify-around items-center mt-[2%]">
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -157,12 +157,12 @@ const Review = () => {
         </div>
 
         <div className="p-2  w-full">
-          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw]   ">
+          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw]   ">
             <div className="flex  justify-around items-center mt-[2%]">
               <div className="   h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -170,13 +170,13 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2 w-full">
-          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full aspect-[1/1.2]  p-[1vw] ">
+          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2]  p-[1vw] ">
             <div>
               <div className="flex  justify-around items-center mt-[2%]">
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
@@ -186,12 +186,12 @@ const Review = () => {
         </div>
 
         <div className="p-2  w-full">
-          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full aspect-[1/1.2]  p-[1vw]   ">
+          <div className="bg-[#B1CF4D]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2]  p-[1vw]   ">
             <div className="flex  justify-around items-center mt-[2%]">
               <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
               <p className="py-auto text-[3vw] font-bold">Anna</p>
             </div>
-            <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+            <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
               Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
               velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
               mollit sint.
@@ -199,13 +199,13 @@ const Review = () => {
           </div>
         </div>
         <div className="p-2 w-full">
-          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full aspect-[1/1.2] p-[1vw] ">
+          <div className="bg-[#FBB60A]  mr-[1%] rounded-lg w-full  aspect-[1/1.1] sm:aspect-[1/1.2] p-[1vw] ">
             <div>
               <div className="flex  justify-around items-center mt-[2%]">
                 <div className="  h-[6vw] w-[6vw]  sm:h-[4vw] sm:w-[4vw] bg-white rounded-full"></div>
                 <p className="py-auto text-[3vw] font-bold">Anna</p>
               </div>
-              <p className="text-lg mt-[1vw] text-[2.1vw] font-semibold ">
+              <p className=" mt-[1vw]  text-[1.8vw] font-semibold ">
                 Ipsum enim amet aliquip amet veniam eiusmod nisi veniam tempor
                 velit Lorem.Cillum anim irure adipisicing nostrud dolore enim
                 mollit sint.
