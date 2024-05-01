@@ -13,7 +13,7 @@ const Purchase = () => {
         <div className=" flex flex-col justify-center items-center">
           <div
             style={circleStyle}
-            className=" h-[8vw] w-[8vw]  rounded-full flex flex-col justify-center items-center text-white font-bold text-4xl"
+            className=" h-[8vw] w-[8vw]  rounded-full flex flex-col justify-center items-center text-white font-bold text-[4vw]"
           >
             1
           </div>
@@ -23,7 +23,7 @@ const Purchase = () => {
         <div className=" flex flex-col justify-center items-center">
           <div
             style={circleStyleMiddle}
-            className=" h-[8vw] w-[8vw]   rounded-full flex flex-col justify-center items-center text-white font-bold text-4xl"
+            className=" h-[8vw] w-[8vw]   rounded-full flex flex-col justify-center items-center text-white font-bold text-[4vw]"
           >
             2
           </div>
@@ -33,7 +33,7 @@ const Purchase = () => {
         <div className=" flex flex-col justify-center items-center">
           <div
             style={circleStyle}
-            className=" h-[8vw] w-[8vw]   rounded-full flex flex-col justify-center items-center text-white font-bold text-4xl"
+            className=" h-[8vw] w-[8vw]   rounded-full flex flex-col justify-center items-center text-white font-bold  text-[4vw]"
           >
             3
           </div>
